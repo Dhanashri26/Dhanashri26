@@ -1,5 +1,9 @@
+#  Hi, <img src ="https://raw.githubusercontent.com/Dhanashri26/Dhanashri26/main/wave.gif" width="30px"> I'm Dhanashri! 
+Passionate frontend developer with hands-on experience in **Angular, JavaScript, TypeScript, RxJS**, and backend technologies like **Java, NodeJS, JSP, Servlet, Hibernate, JDBC, and JPA**. I love building scalable and efficient web applications that enhance user experience. 
+
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact<br>
+🔭 I’m currently working as a Frontend Developer.<br>👯 I’m looking to collaborate on Frontend, Backend or Fullstack projects.<br>🤝 I’m looking for help with Open Source project contributions.<br>🌱 I’m currently learning Spring, Springboot.<br>
+
 ![](https://komarev.com/ghpvc/?username=Dhanashri26&color=brightgreen)
 
 ## 🌐 Socials:
@@ -19,5 +23,5 @@
 [![](https://visitcount.itsvg.in/api?id=Dhanashri26&icon=4&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![GitHub Art](https://raw.githubusercontent.com/Dhanashri26/Dhanashri26/main/gitartwork.svg)
+![GitHub Art](https://raw.githubusercontent.com/Dhanashri26/Dhanashri26/gitartwork.svg)
 
