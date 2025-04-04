@@ -7,10 +7,10 @@ Passionate frontend developer with hands-on experience in **Angular, JavaScript,
 ![](https://komarev.com/ghpvc/?username=Dhanashri26&color=brightgreen)
 
 # Skills:
-Frontend: Angular, HTMl, CSS, JavaScript, Typescript, Bootstrap.
-Backend: Java, NodeJS.
-Softwares: Eclipse, VS-Code, Postman, Docker, Swagger, JIRA, Bitbucket.
-Database: MySQL, Oracle SQL Developer, JDBC, Hibernate.
+Frontend: Angular, HTMl, CSS, JavaScript, Typescript, Bootstrap. <br>
+Backend: Java, NodeJS. <br>
+Softwares: Eclipse, VS-Code, Postman, Docker, Swagger, JIRA, Bitbucket. <br>
+Database: MySQL, Oracle SQL Developer, JDBC, Hibernate. <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dhanashrilambade/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@medhanashri26) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/dhanashri_2610) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lambade.dhanashri@gmail.com) 
