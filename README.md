@@ -1,5 +1,5 @@
 #  Hi, <img src ="https://raw.githubusercontent.com/Dhanashri26/Dhanashri26/main/wave.gif" width="30px"> I'm Dhanashri! 
-Passionate frontend developer with hands-on experience in **Angular, JavaScript, TypeScript, RxJS**, and backend technologies like **Java, NodeJS, JSP, Servlet, Hibernate, JDBC, and JPA**. I love building scalable and efficient web applications that enhance user experience. 
+Passionate frontend developer with hands-on experience in **HTML, CSS, Angular, JavaScript, TypeScript, RxJS**, and backend technologies like **Java, NodeJS, JSP, Servlet, Hibernate, JDBC,JPA**. I love building scalable and efficient web applications that enhance user experience. 
 
 # 💫 About Me:
 🔭 I’m currently working as a Frontend Developer.<br>👯 I’m looking to collaborate on Frontend, Backend or Fullstack projects.<br>🤝 I’m looking for help with Open Source project contributions.<br>🌱 I’m currently learning Spring, Springboot.<br>
